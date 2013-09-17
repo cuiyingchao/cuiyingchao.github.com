@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Bit Lucid Oval Gem]]></title>
+  <link href="http://cuiyingchao.github.io/atom.xml" rel="self"/>
+  <link href="http://cuiyingchao.github.io/"/>
+  <updated>2013-09-17T22:45:47+08:00</updated>
+  <id>http://cuiyingchao.github.io/</id>
+  <author>
+    <name><![CDATA[Richard]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Where do I want to live]]></title>
+    <link href="http://cuiyingchao.github.io/blog/2013/09/17/where-do-i-want-to-live/"/>
+    <updated>2013-09-17T19:18:00+08:00</updated>
+    <id>http://cuiyingchao.github.io/blog/2013/09/17/where-do-i-want-to-live</id>
+    <content type="html"><![CDATA[<p><strong>Welcome to my blog.</strong></p>
+
+<p>This blog is used to document my daily intuitions and inductions, mainly focused in the area of science and life philosophy. As the blog name shows, I want the following documents could be helpful to see the iceberg beneath the sea, step by step.</p>
+
+<p>I like to collect cool projects/tools to improvement visual enjoyment and human-nature interaction. As time goes, I will put the most interesting ones onto this platform. Hopefully you will enjoy it.</p>
+
+<p>The blog is under constructing, welcome to any suggestions.</p>
+
+<h6>Regards</h6>
+
+<h6>Richard</h6>
+]]></content>
+  </entry>
+  
+</feed>
