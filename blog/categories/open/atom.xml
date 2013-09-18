@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Bit Lucid Oval Gem]]></title>
-  <link href="http://cuiyingchao.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: open | Bit Lucid Oval Gem]]></title>
+  <link href="http://cuiyingchao.github.io/blog/categories/open/atom.xml" rel="self"/>
   <link href="http://cuiyingchao.github.io/"/>
   <updated>2013-09-18T14:08:03+08:00</updated>
   <id>http://cuiyingchao.github.io/</id>
